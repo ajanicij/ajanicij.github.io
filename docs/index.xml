@@ -6,9 +6,36 @@
     <description>My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 17:41:59 -0400</lastBuildDate>
     
     <atom:link href="https://ajanicij.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ajanicij.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 09 May 2023 17:41:59 -0400</pubDate>
+      
+      <guid>https://ajanicij.github.io/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-main-heading&#34; &gt;My main heading
+&lt;span&gt;
+    &lt;a href=&#34;#my-main-heading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;&lt;p&gt;It&amp;rsquo;s so &lt;em&gt;exciting&lt;/em&gt; writing my first &lt;strong&gt;hugo&lt;/strong&gt; blog post.&lt;/p&gt;
+&lt;h2 id=&#34;a-smaller-heading&#34; &gt;A smaller heading
+&lt;span&gt;
+    &lt;a href=&#34;#a-smaller-heading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wow these bullets are way easier than HTML bullets!&lt;/li&gt;
+&lt;li&gt;Enough writing, let&amp;rsquo;s see what it looks like!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
