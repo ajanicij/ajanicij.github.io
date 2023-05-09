@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: 2023-05-09T17:41:59-04:00
-draft: true
 summary: The coolest blog post in the universe
 ---
 
