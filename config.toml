@@ -1,7 +1,8 @@
-baseURL = 'https://ajanicij.github.org/'
+baseURL = 'https://ajanicij.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anubis"
+publishDir = "docs"
 
 [menu]
 

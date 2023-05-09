@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://ajanicij.github.org/tags/</link>
+    <link>https://ajanicij.github.io/tags/</link>
     <description>My New Hugo Site (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="https://ajanicij.github.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ajanicij.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
