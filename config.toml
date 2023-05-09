@@ -1,0 +1,15 @@
+baseURL = 'https://ajanicij.github.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anubis"
+
+[menu]
+
+[[menu.main]]
+name = "Photography"
+url = "/categories/photography"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
